@@ -1,0 +1,2 @@
+# BetterTouchToolConfig
+BTT配置
